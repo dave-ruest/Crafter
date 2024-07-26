@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Chef_tango_icon_20px.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
